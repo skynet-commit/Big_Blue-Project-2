@@ -26,7 +26,7 @@ followed by Rivian (13.37%) and BMW (9.77%), while all remaining brands maintain
 The geographical analysis indicates that the majority of EVs circulating in Canada originate from the United States and Germany. 
 This suggests a clear preference among Canadian consumers for American and European manufacturers compared to the Asian market.
 
-![alt-text](https://github.com/adagk/EDA-on-EV-Canadian-Market/blob/main/screenshots/Market_Overview.jpg)
+![alt-text](https://github.com/skynet-commit/Big_Blue-Project-2/blob/main/Screenshots/Market%20Overview.jpg)
 
 
 Subsequently, we compare motor power with energy efficiency across brands, models, and vehicle types, focusing on the Top 10 of each 
@@ -42,7 +42,7 @@ Finally, at the vehicle type level, we observe that as vehicle size decreases, h
 while energy efficiency shows an increasing trend. The negative correlation between motor power and efficiency is further confirmed 
 by the scatter plot, where increases in power are accompanied by decreases in efficiency.
 
-![alt-text](https://github.com/adagk/EDA-on-EV-Canadian-Market/blob/main/screenshots/Motor_Efficiency.jpg)
+![alt-text](https://github.com/skynet-commit/Big_Blue-Project-2/blob/main/Screenshots/Motor_Efficiency.jpg)
 
 Chronologically, from 2012 to 2016, a gradual increase in the presence of EVs in the Canadian market can be observed, 
 with a peak in 2025. Although we are only in the first weeks of 2026, sales already show a tendency to approach or even exceed 
@@ -52,7 +52,7 @@ At the same time, similarly to the motor power vs. efficiency analysis, EVs from
 to earlier models (e.g., 2012), indicating a shift in consumer preferences. These vehicles feature higher power output but 
 exhibit lower energy efficiency.
 
-![alt-text](https://github.com/adagk/EDA-on-EV-Canadian-Market/blob/main/screenshots/Yearly_Evolution.jpg)
+![alt-text](https://github.com/skynet-commit/Big_Blue-Project-2/blob/main/Screenshots/Yearly%20Evolution.jpg)
 
 Of particular importance is the recharge time, which shows an upward trend over the years, 
 following a pattern similar to the increase in horsepower.
@@ -61,9 +61,9 @@ In the scatter plot, a wide dispersion in charging times is observed; however, a
 there is a high concentration of vehicles with varying power levels. This suggests that charging time is 
 not determined solely by motor power.
 
-![alt-text](https://github.com/adagk/EDA-on-EV-Canadian-Market/blob/main/screenshots/Recharge.jpg)
+![alt-text](https://github.com/skynet-commit/Big_Blue-Project-2/blob/main/Screenshots/Recharge.jpg)
 
 Finally, an additional reporting sheet is provided, in which the entire dataset is available, 
 enabling export and further analysis by the user.
 
-![alt-text](https://github.com/adagk/EDA-on-EV-Canadian-Market/blob/main/screenshots/Data_Report.jpg)
+![alt-text](https://github.com/skynet-commit/Big_Blue-Project-2/blob/main/Screenshots/Data%20Report.jpg)
